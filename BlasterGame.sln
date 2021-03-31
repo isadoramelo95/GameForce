@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XGame.Domain", "XGame.Domain\XGame.Domain.csproj", "{5DD7451E-CE20-4026-8E0A-4ADD913748E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DD7451E-CE20-4026-8E0A-4ADD913748E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD7451E-CE20-4026-8E0A-4ADD913748E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD7451E-CE20-4026-8E0A-4ADD913748E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD7451E-CE20-4026-8E0A-4ADD913748E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {985E4CDD-4A3F-4FA2-9E6A-A5D4C0C2B333}
+	EndGlobalSection
+EndGlobal
