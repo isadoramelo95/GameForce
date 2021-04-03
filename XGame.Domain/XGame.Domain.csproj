@@ -63,7 +63,11 @@
     <Compile Include="ValueObjects\Email.cs" />
     <Compile Include="ValueObjects\Nome.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <PackageReference Include="prmToolkit.NotificationPattern">
+      <Version>1.0.19</Version>
+    </PackageReference>
+  </ItemGroup>
   <ItemGroup>
     <None Include="Diagrams\XGame.cd" />
   </ItemGroup>
